@@ -26,7 +26,12 @@
 
 
 # Installation Guide
-bluh bluh
+
+<figure class="video_container">
+  <video autoplay controls="true" allowfullscreen="true" height="400" width="225">
+    <source src="installationguide.mp4" type="video/mp4">
+  </video>
+</figure>
 
 
 <br/>
