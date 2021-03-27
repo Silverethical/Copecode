@@ -15,7 +15,7 @@
 هنگامی که رمز دوم از طریق پیامک دریافت شد، یک اعلان دریافت میکنید که با اجرای آن رمز دوم کپی میشود و به راحتی رمز دوم را وارد میکنید
 
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" height="800" width="450">
+  <video controls="true" allowfullscreen="true" poster="demoPic.png" height="480" width="270">
     <source src="demo.mp4" type="video/mp4">
   </video>
 </figure>
