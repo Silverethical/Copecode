@@ -1,7 +1,7 @@
 
 # Welcome
 * **[معرفی](#description)**<br/>
-* **[آموزش نصب و استفاده](#installation-guide)**<br/>
+* **[راهنمای نصب و استفاده](#installation-guide)**<br/>
 * **[پیش‌نیاز](#dependency)**<br/>
 * **[نصب](#download)**<br/>
 * **[حمایت از سازنده](#support)**<br/>
