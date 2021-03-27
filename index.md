@@ -65,7 +65,7 @@ bluh bluh
 
 
 # Support
-### [پیوستن به کانال تلگرام](https://t.me/Planbreak)  
-### [Donate | حمایت مالی](https://me.pay.ir/silverethical)  
+## [پیوستن به کانال تلگرام](https://t.me/Planbreak)  
+## [Donate | حمایت مالی](https://me.pay.ir/silverethical)  
 
 
