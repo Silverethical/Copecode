@@ -42,7 +42,7 @@ bluh bluh
 
 
 # Download 
-[**Copecode 1.0**](https://www.icloud.com/shortcuts/e21ccd36a1274f32b7fa72c7394bce24)  
+[**Copecode 1.0**](https://www.icloud.com/shortcuts/82a11ad37048460b9832a2a88b316ef9)  
 * پیش‌نیاز
   * **iOS >= 14.0**  
 * تغییرات
