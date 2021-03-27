@@ -1,27 +1,11 @@
 
 # Welcome
-* **[پیش‌نیاز](#dependency)**<br/>
-* **[نصب](#download)**<br/>
 * **[معرفی](#description)**<br/>
 * **[آموزش نصب و استفاده](#installation-guide)**<br/>
+* **[پیش‌نیاز](#dependency)**<br/>
+* **[نصب](#download)**<br/>
 * **[تغییرات نسخه ها](#changelogs)**<br/>
 * **[حمایت از سازنده](#support)**<br/>
-
-
-<br/>
-<br/>
-
-
-# Dependency
-* iOS >= 14.0<br/>
-این شرتکات فقط روی آی او اس 14.0 و بالاتر کار میکند
-
-<br/>
-<br/>
-
-
-# Download
-* [**Copecode 1.0** - آخرین نسخه](https://www.icloud.com/shortcuts/e21ccd36a1274f32b7fa72c7394bce24)  
 
 
 <br/>
@@ -39,6 +23,22 @@ https://user-images.githubusercontent.com/55661572/112729531-32f1ee80-8f4a-11eb-
 
 # Installation Guide
 bluh bluh
+
+
+<br/>
+<br/>
+
+
+# Dependency
+* iOS >= 14.0<br/>
+این شرتکات فقط روی آی او اس 14.0 و بالاتر کار میکند
+
+<br/>
+<br/>
+
+
+# Download
+* [**Copecode 1.0** - آخرین نسخه](https://www.icloud.com/shortcuts/e21ccd36a1274f32b7fa72c7394bce24)  
 
 
 <br/>
