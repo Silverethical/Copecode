@@ -1,17 +1,11 @@
 
 # Welcome
-
-* **[پیش‌نیاز](#dependency)**  
-
-* **[نصب](#download)**  
-
-* **[معرفی](#description)**  
-
-* **[آموزش نصب و استفاده](#installation-guide)**  
-
-* **[تغییرات نسخه ها](#changelogs)**  
-
-* **[حمایت از سازنده](#support)**  
+* **[پیش‌نیاز](#dependency)**<br/>
+* **[نصب](#download)**<br/>
+* **[معرفی](#description)**<br/>
+* **[آموزش نصب و استفاده](#installation-guide)**<br/>
+* **[تغییرات نسخه ها](#changelogs)**<br/>
+* **[حمایت از سازنده](#support)**<br/>
 
 
 <br/>
@@ -28,7 +22,7 @@
 
 
 # Download
-* [**Copecode 1.0** - آخرین نسخه](url)  
+* [**Copecode 1.0** - آخرین نسخه](https://www.icloud.com/shortcuts/270815482a3845da92dfd792b4bdc2f1)  
 
 
 <br/>
@@ -43,7 +37,6 @@ bluh
 
 
 # Installation Guide
-
 bluh bluh
 
 
@@ -52,8 +45,7 @@ bluh bluh
 
 
 # Changelogs
-
-[**Copecode 1.0**](url)  
+[**Copecode 1.0**](https://www.icloud.com/shortcuts/270815482a3845da92dfd792b4bdc2f1)  
 * پیش‌نیاز
   * **iOS >= 14.0**  
 * تغییرات
