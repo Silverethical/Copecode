@@ -14,15 +14,14 @@
 
 # Dependency
 * iOS >= 14.0<br/>
-و بالاتر کار میکند iOS 14.0 این شرتکات فقط روی 
-
+این شرتکات فقط روی آی او اس 14.0 و بالاتر کار میکند
 
 <br/>
 <br/>
 
 
 # Download
-* [**Copecode 1.0** - آخرین نسخه](https://www.icloud.com/shortcuts/270815482a3845da92dfd792b4bdc2f1)  
+* [**Copecode 1.0** - آخرین نسخه](https://www.icloud.com/shortcuts/e21ccd36a1274f32b7fa72c7394bce24)  
 
 
 <br/>
@@ -30,7 +29,9 @@
 
 
 # Description
-bluh
+هنگامی که رمز دوم از طریق پیامک دریافت شد، یک اعلان دریافت میکنید که با اجرای آن رمز دوم کپی میشود و به راحتی رمز دوم را وارد میکنید
+https://user-images.githubusercontent.com/55661572/112729531-32f1ee80-8f4a-11eb-8ab0-a169d8ea912f.MOV
+
 
 <br/>
 <br/>
@@ -45,7 +46,7 @@ bluh bluh
 
 
 # Changelogs
-[**Copecode 1.0**](https://www.icloud.com/shortcuts/270815482a3845da92dfd792b4bdc2f1)  
+[**Copecode 1.0**](https://www.icloud.com/shortcuts/e21ccd36a1274f32b7fa72c7394bce24)  
 * پیش‌نیاز
   * **iOS >= 14.0**  
 * تغییرات
