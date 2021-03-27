@@ -4,7 +4,6 @@
 * **[آموزش نصب و استفاده](#installation-guide)**<br/>
 * **[پیش‌نیاز](#dependency)**<br/>
 * **[نصب](#download)**<br/>
-* **[تغییرات نسخه ها](#changelogs)**<br/>
 * **[حمایت از سازنده](#support)**<br/>
 
 
@@ -47,15 +46,7 @@ bluh bluh
 <br/>
 
 
-# Download
-* [**Copecode 1.0** - آخرین نسخه](https://www.icloud.com/shortcuts/e21ccd36a1274f32b7fa72c7394bce24)  
-
-
-<br/>
-<br/>
-
-
-# Changelogs
+# Download 
 [**Copecode 1.0**](https://www.icloud.com/shortcuts/e21ccd36a1274f32b7fa72c7394bce24)  
 * پیش‌نیاز
   * **iOS >= 14.0**  
