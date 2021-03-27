@@ -47,7 +47,7 @@
 
 
 # Download 
-[**Copecode 1.0**](https://www.icloud.com/shortcuts/82a11ad37048460b9832a2a88b316ef9)  
+[**Copecode 1.0**](https://www.icloud.com/shortcuts/32fd2b87c10c4ddbb4c88c06cd267e2b)  
 * پیش‌نیاز
   * **iOS >= 14.0**  
 * تغییرات
