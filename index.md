@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # Welcome
 * **[معرفی](#description)**<br/>
@@ -35,7 +34,9 @@
 
 # Dependency
 * iOS >= 14.0<br/>
+<div dir="rtl">
 این شرتکات فقط روی iOS 14.0 و بالاتر کار میکند
+</div>
 
 <br/>
 <br/>
@@ -57,5 +58,4 @@
 ## [پیوستن به کانال تلگرام](https://t.me/Planbreak)  
 ## [Donate | حمایت مالی](https://me.pay.ir/silverethical)  
 
-</div>
 
